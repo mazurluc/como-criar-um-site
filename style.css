@@ -1,8 +1,7 @@
-header{
+.header{
  background-color: #ff9e9e;  
  padding: 0px;
  margin: 0px;
- height: 0px;
+ height: 25px;
  display: flex
- 
 }
