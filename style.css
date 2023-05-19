@@ -4,6 +4,8 @@
  margin: 0px;
  height: 250px;
  display: flex;
+ justify-content: space-between;
+ flex-direction: rowd;
  align-items: center;
 }
 .titulo-corpo{
