@@ -5,7 +5,7 @@
  height: 250px;
  display: flex;
  justify-content: space-between;
- flex-direction: rowd;
+ flex-direction: row;
  align-items: center;
 }
 .titulo-corpo{
