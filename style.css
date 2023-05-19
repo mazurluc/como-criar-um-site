@@ -3,7 +3,8 @@
  padding: 0px;
  margin: 0px;
  height: 250px;
- display: flex
+ display: flex;
+ align-items: center;
 }
 .titulo-corpo{
     display: flex;
