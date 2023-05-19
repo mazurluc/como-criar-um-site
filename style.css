@@ -5,3 +5,7 @@
  height: 250px;
  display: flex
 }
+.titulo-corpo{
+    display: flex;
+    justify-content: center;
+}
